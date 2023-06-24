@@ -1,7 +1,6 @@
 <h1 align='center'>Face Recognition Attendence System</h1>
 <h4 align='center' >A project based on face recognition based attendance system that provides real time update with firebase database</h4>
 <br/>
-<br/>
 <div>
   
 ![Screenshot (143)](https://github.com/himanshugalav1/FaceRecognitionAttendence/assets/107814705/73dcf065-ee33-4f74-928f-c0507ee433e1)
